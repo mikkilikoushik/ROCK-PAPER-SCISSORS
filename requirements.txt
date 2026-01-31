@@ -1,0 +1,24 @@
+📄 requirements.txt
+
+Create a file named requirements.txt and add this:
+
+# No external dependencies required
+# Uses only Python standard library
+
+🛠️ Install Command
+
+Even though there are no dependencies, you can still run the standard command:
+
+pip install random
+
+✅ Why this works
+
+random is part of Python’s standard library
+
+No third-party packages are used
+
+📌 Optional (if you want to look more professional)
+
+You can also mention the Python version:
+
+python>=3.7
